@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/cmcg279/nibjj/static/css/main.abd634f7.chunk.css",
-    "main.js": "/cmcg279/nibjj/static/js/main.f4f47a26.chunk.js",
-    "main.js.map": "/cmcg279/nibjj/static/js/main.f4f47a26.chunk.js.map",
-    "runtime-main.js": "/cmcg279/nibjj/static/js/runtime-main.6f18e045.js",
-    "runtime-main.js.map": "/cmcg279/nibjj/static/js/runtime-main.6f18e045.js.map",
-    "static/css/2.8d24d6c7.chunk.css": "/cmcg279/nibjj/static/css/2.8d24d6c7.chunk.css",
-    "static/js/2.7273c072.chunk.js": "/cmcg279/nibjj/static/js/2.7273c072.chunk.js",
-    "static/js/2.7273c072.chunk.js.map": "/cmcg279/nibjj/static/js/2.7273c072.chunk.js.map",
-    "index.html": "/cmcg279/nibjj/index.html",
-    "precache-manifest.f51618d4bb62c183889754f48a4185f9.js": "/cmcg279/nibjj/precache-manifest.f51618d4bb62c183889754f48a4185f9.js",
-    "service-worker.js": "/cmcg279/nibjj/service-worker.js",
-    "static/css/2.8d24d6c7.chunk.css.map": "/cmcg279/nibjj/static/css/2.8d24d6c7.chunk.css.map",
-    "static/css/main.abd634f7.chunk.css.map": "/cmcg279/nibjj/static/css/main.abd634f7.chunk.css.map",
-    "static/js/2.7273c072.chunk.js.LICENSE.txt": "/cmcg279/nibjj/static/js/2.7273c072.chunk.js.LICENSE.txt",
-    "static/media/armbar.jpg": "/cmcg279/nibjj/static/media/armbar.aba6ebc1.jpg",
-    "static/media/nibjj_yellow.jpg": "/cmcg279/nibjj/static/media/nibjj_yellow.811c13d3.jpg",
-    "static/media/smart-man-chair.jpg": "/cmcg279/nibjj/static/media/smart-man-chair.dc385185.jpg",
-    "static/media/triangle.jpg": "/cmcg279/nibjj/static/media/triangle.1f7bb7c6.jpg"
+    "main.css": "/nibjj/static/css/main.abd634f7.chunk.css",
+    "main.js": "/nibjj/static/js/main.18d2e992.chunk.js",
+    "main.js.map": "/nibjj/static/js/main.18d2e992.chunk.js.map",
+    "runtime-main.js": "/nibjj/static/js/runtime-main.15aebbcb.js",
+    "runtime-main.js.map": "/nibjj/static/js/runtime-main.15aebbcb.js.map",
+    "static/css/2.8d24d6c7.chunk.css": "/nibjj/static/css/2.8d24d6c7.chunk.css",
+    "static/js/2.7273c072.chunk.js": "/nibjj/static/js/2.7273c072.chunk.js",
+    "static/js/2.7273c072.chunk.js.map": "/nibjj/static/js/2.7273c072.chunk.js.map",
+    "index.html": "/nibjj/index.html",
+    "precache-manifest.050d2d1706553cb9bdbd2314b63b9559.js": "/nibjj/precache-manifest.050d2d1706553cb9bdbd2314b63b9559.js",
+    "service-worker.js": "/nibjj/service-worker.js",
+    "static/css/2.8d24d6c7.chunk.css.map": "/nibjj/static/css/2.8d24d6c7.chunk.css.map",
+    "static/css/main.abd634f7.chunk.css.map": "/nibjj/static/css/main.abd634f7.chunk.css.map",
+    "static/js/2.7273c072.chunk.js.LICENSE.txt": "/nibjj/static/js/2.7273c072.chunk.js.LICENSE.txt",
+    "static/media/armbar.jpg": "/nibjj/static/media/armbar.aba6ebc1.jpg",
+    "static/media/nibjj_yellow.jpg": "/nibjj/static/media/nibjj_yellow.811c13d3.jpg",
+    "static/media/smart-man-chair.jpg": "/nibjj/static/media/smart-man-chair.dc385185.jpg",
+    "static/media/triangle.jpg": "/nibjj/static/media/triangle.1f7bb7c6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f18e045.js",
+    "static/js/runtime-main.15aebbcb.js",
     "static/css/2.8d24d6c7.chunk.css",
     "static/js/2.7273c072.chunk.js",
     "static/css/main.abd634f7.chunk.css",
-    "static/js/main.f4f47a26.chunk.js"
+    "static/js/main.18d2e992.chunk.js"
   ]
 }
