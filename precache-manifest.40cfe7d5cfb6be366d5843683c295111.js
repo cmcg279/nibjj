@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98fbc385594b52b0e78ab85bb989a150",
+    "revision": "85480bcf002ea2b1d3647ac99645fbc9",
     "url": "/nibjj/index.html"
   },
   {
-    "revision": "92905f724badd0be0f10",
+    "revision": "d2fa705b333ddd03bdc1",
     "url": "/nibjj/static/css/2.440934d3.chunk.css"
   },
   {
-    "revision": "ae727409c6deca3a1027",
+    "revision": "951287067ed774f9849a",
     "url": "/nibjj/static/css/main.e7692612.chunk.css"
   },
   {
-    "revision": "92905f724badd0be0f10",
-    "url": "/nibjj/static/js/2.be7570cf.chunk.js"
+    "revision": "d2fa705b333ddd03bdc1",
+    "url": "/nibjj/static/js/2.33fb3bd7.chunk.js"
   },
   {
     "revision": "bc1a73d08d8433691746793d8481dea3",
-    "url": "/nibjj/static/js/2.be7570cf.chunk.js.LICENSE.txt"
+    "url": "/nibjj/static/js/2.33fb3bd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae727409c6deca3a1027",
-    "url": "/nibjj/static/js/main.ab73e175.chunk.js"
+    "revision": "951287067ed774f9849a",
+    "url": "/nibjj/static/js/main.d40314de.chunk.js"
   },
   {
     "revision": "ef434379ffde37a9bba6",
